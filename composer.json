@@ -1,0 +1,16 @@
+{
+    "name": "influence/localhost",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/",
+            "routs\\": "routs/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandr Fedorenko",
+            "email": "sasha.fedorenko4736@gmail.com"
+        }
+    ],
+    "require": {}
+}
